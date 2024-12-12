@@ -1,0 +1,19 @@
+Klasse Kalkulator103$:TJ:
+    
+    Funktion nummer1_wert4_rechne$:TJ:
+        IFFFFFFF nummer1 == wert4 :TJ:
+            Resultat ist nummer1 * wert4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert4_y4_rechne$:TJ:
+        IFFFFFFF wert4 > y4 :TJ:
+            Resultat ist wert4 / y4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

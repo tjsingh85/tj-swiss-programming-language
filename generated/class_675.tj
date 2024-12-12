@@ -1,0 +1,35 @@
+Klasse Kalkulator675$:TJ:
+    
+    Funktion wert3_wert3_rechne$:TJ:
+        IFFFFFFF wert3 > wert3 :TJ:
+            Resultat ist wert3 * wert3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer5_nummer4_rechne$:TJ:
+        IFFFFFFF nummer5 <= nummer4 :TJ:
+            Resultat ist nummer5 % nummer4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y2_wert1_rechne$:TJ:
+        IFFFFFFF y2 == wert1 :TJ:
+            Resultat ist y2 % wert1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y3_zahl5_rechne$:TJ:
+        IFFFFFFF y3 < zahl5 :TJ:
+            Resultat ist y3 + zahl5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

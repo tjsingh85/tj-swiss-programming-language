@@ -1,0 +1,19 @@
+Klasse Rechner391$:TJ:
+    
+    Funktion x1_y2_rechne$:TJ:
+        IFFFFFFF x1 < y2 :TJ:
+            Resultat ist x1 / y2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer3_wert4_rechne$:TJ:
+        IFFFFFFF nummer3 >= wert4 :TJ:
+            Resultat ist nummer3 ** wert4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

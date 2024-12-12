@@ -1,0 +1,27 @@
+Klasse ZahleRechner496$:TJ:
+    
+    Funktion x5_y2_rechne$:TJ:
+        IFFFFFFF x5 == y2 :TJ:
+            Resultat ist x5 * y2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert4_wert4_rechne$:TJ:
+        IFFFFFFF wert4 > wert4 :TJ:
+            Resultat ist wert4 + wert4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x2_y1_rechne$:TJ:
+        IFFFFFFF x2 <= y1 :TJ:
+            Resultat ist x2 - y1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

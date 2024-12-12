@@ -1,0 +1,19 @@
+Klasse Mathematik695$:TJ:
+    
+    Funktion zahl2_y2_rechne$:TJ:
+        IFFFFFFF zahl2 != y2 :TJ:
+            Resultat ist zahl2 - y2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl2_wert2_rechne$:TJ:
+        IFFFFFFF zahl2 > wert2 :TJ:
+            Resultat ist zahl2 + wert2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

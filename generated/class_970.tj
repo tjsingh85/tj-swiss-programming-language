@@ -1,0 +1,19 @@
+Klasse ZahleRechner970$:TJ:
+    
+    Funktion nummer1_nummer2_rechne$:TJ:
+        IFFFFFFF nummer1 == nummer2 :TJ:
+            Resultat ist nummer1 % nummer2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x4_x5_rechne$:TJ:
+        IFFFFFFF x4 >= x5 :TJ:
+            Resultat ist x4 + x5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

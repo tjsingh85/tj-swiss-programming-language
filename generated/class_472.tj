@@ -1,0 +1,27 @@
+Klasse Kalkulator472$:TJ:
+    
+    Funktion wert5_zahl5_rechne$:TJ:
+        IFFFFFFF wert5 < zahl5 :TJ:
+            Resultat ist wert5 + zahl5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert3_nummer5_rechne$:TJ:
+        IFFFFFFF wert3 != nummer5 :TJ:
+            Resultat ist wert3 % nummer5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x5_y3_rechne$:TJ:
+        IFFFFFFF x5 < y3 :TJ:
+            Resultat ist x5 + y3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

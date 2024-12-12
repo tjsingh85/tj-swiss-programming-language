@@ -1,0 +1,35 @@
+Klasse Rechner487$:TJ:
+    
+    Funktion zahl3_y3_rechne$:TJ:
+        IFFFFFFF zahl3 != y3 :TJ:
+            Resultat ist zahl3 ** y3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl5_wert1_rechne$:TJ:
+        IFFFFFFF zahl5 != wert1 :TJ:
+            Resultat ist zahl5 - wert1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl2_nummer3_rechne$:TJ:
+        IFFFFFFF zahl2 == nummer3 :TJ:
+            Resultat ist zahl2 * nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x1_zahl3_rechne$:TJ:
+        IFFFFFFF x1 >= zahl3 :TJ:
+            Resultat ist x1 % zahl3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

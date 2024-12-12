@@ -1,0 +1,35 @@
+Klasse Kalkulator842$:TJ:
+    
+    Funktion wert4_zahl5_rechne$:TJ:
+        IFFFFFFF wert4 != zahl5 :TJ:
+            Resultat ist wert4 / zahl5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x2_nummer2_rechne$:TJ:
+        IFFFFFFF x2 >= nummer2 :TJ:
+            Resultat ist x2 ** nummer2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x5_y4_rechne$:TJ:
+        IFFFFFFF x5 != y4 :TJ:
+            Resultat ist x5 + y4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y3_nummer5_rechne$:TJ:
+        IFFFFFFF y3 < nummer5 :TJ:
+            Resultat ist y3 % nummer5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

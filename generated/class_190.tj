@@ -1,0 +1,43 @@
+Klasse ZahleRechner190$:TJ:
+    
+    Funktion x2_x5_rechne$:TJ:
+        IFFFFFFF x2 <= x5 :TJ:
+            Resultat ist x2 ** x5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y5_nummer4_rechne$:TJ:
+        IFFFFFFF y5 >= nummer4 :TJ:
+            Resultat ist y5 + nummer4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer5_zahl2_rechne$:TJ:
+        IFFFFFFF nummer5 >= zahl2 :TJ:
+            Resultat ist nummer5 ** zahl2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x5_x3_rechne$:TJ:
+        IFFFFFFF x5 == x3 :TJ:
+            Resultat ist x5 + x3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer4_x4_rechne$:TJ:
+        IFFFFFFF nummer4 <= x4 :TJ:
+            Resultat ist nummer4 - x4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

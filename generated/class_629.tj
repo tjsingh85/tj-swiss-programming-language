@@ -1,0 +1,19 @@
+Klasse Mathematik629$:TJ:
+    
+    Funktion y1_x5_rechne$:TJ:
+        IFFFFFFF y1 < x5 :TJ:
+            Resultat ist y1 % x5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert2_y2_rechne$:TJ:
+        IFFFFFFF wert2 >= y2 :TJ:
+            Resultat ist wert2 ** y2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

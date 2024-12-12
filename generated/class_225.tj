@@ -1,0 +1,27 @@
+Klasse ZahleRechner225$:TJ:
+    
+    Funktion x4_zahl3_rechne$:TJ:
+        IFFFFFFF x4 <= zahl3 :TJ:
+            Resultat ist x4 - zahl3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl5_nummer5_rechne$:TJ:
+        IFFFFFFF zahl5 == nummer5 :TJ:
+            Resultat ist zahl5 * nummer5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl3_x1_rechne$:TJ:
+        IFFFFFFF zahl3 > x1 :TJ:
+            Resultat ist zahl3 / x1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

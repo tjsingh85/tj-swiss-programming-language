@@ -1,0 +1,27 @@
+Klasse Mathematik456$:TJ:
+    
+    Funktion wert5_x2_rechne$:TJ:
+        IFFFFFFF wert5 <= x2 :TJ:
+            Resultat ist wert5 / x2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl5_y1_rechne$:TJ:
+        IFFFFFFF zahl5 > y1 :TJ:
+            Resultat ist zahl5 - y1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl5_x3_rechne$:TJ:
+        IFFFFFFF zahl5 == x3 :TJ:
+            Resultat ist zahl5 + x3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

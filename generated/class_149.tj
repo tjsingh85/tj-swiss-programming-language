@@ -1,0 +1,43 @@
+Klasse Rechner149$:TJ:
+    
+    Funktion x2_nummer2_rechne$:TJ:
+        IFFFFFFF x2 > nummer2 :TJ:
+            Resultat ist x2 / nummer2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl2_y5_rechne$:TJ:
+        IFFFFFFF zahl2 == y5 :TJ:
+            Resultat ist zahl2 / y5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl4_zahl2_rechne$:TJ:
+        IFFFFFFF zahl4 >= zahl2 :TJ:
+            Resultat ist zahl4 % zahl2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y5_nummer3_rechne$:TJ:
+        IFFFFFFF y5 < nummer3 :TJ:
+            Resultat ist y5 * nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl2_x1_rechne$:TJ:
+        IFFFFFFF zahl2 >= x1 :TJ:
+            Resultat ist zahl2 / x1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

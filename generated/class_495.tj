@@ -1,0 +1,35 @@
+Klasse Mathematik495$:TJ:
+    
+    Funktion nummer5_nummer5_rechne$:TJ:
+        IFFFFFFF nummer5 >= nummer5 :TJ:
+            Resultat ist nummer5 + nummer5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer5_zahl4_rechne$:TJ:
+        IFFFFFFF nummer5 >= zahl4 :TJ:
+            Resultat ist nummer5 - zahl4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert5_nummer1_rechne$:TJ:
+        IFFFFFFF wert5 >= nummer1 :TJ:
+            Resultat ist wert5 + nummer1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert3_wert3_rechne$:TJ:
+        IFFFFFFF wert3 > wert3 :TJ:
+            Resultat ist wert3 / wert3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

@@ -1,0 +1,43 @@
+Klasse Kalkulator48$:TJ:
+    
+    Funktion x3_x2_rechne$:TJ:
+        IFFFFFFF x3 != x2 :TJ:
+            Resultat ist x3 * x2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert5_x2_rechne$:TJ:
+        IFFFFFFF wert5 == x2 :TJ:
+            Resultat ist wert5 - x2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl2_wert2_rechne$:TJ:
+        IFFFFFFF zahl2 == wert2 :TJ:
+            Resultat ist zahl2 ** wert2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert1_zahl1_rechne$:TJ:
+        IFFFFFFF wert1 <= zahl1 :TJ:
+            Resultat ist wert1 + zahl1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y3_x5_rechne$:TJ:
+        IFFFFFFF y3 <= x5 :TJ:
+            Resultat ist y3 ** x5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

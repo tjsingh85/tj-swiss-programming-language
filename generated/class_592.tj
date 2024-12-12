@@ -1,0 +1,27 @@
+Klasse Kalkulator592$:TJ:
+    
+    Funktion y3_x1_rechne$:TJ:
+        IFFFFFFF y3 >= x1 :TJ:
+            Resultat ist y3 + x1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x1_x4_rechne$:TJ:
+        IFFFFFFF x1 == x4 :TJ:
+            Resultat ist x1 * x4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y5_nummer2_rechne$:TJ:
+        IFFFFFFF y5 > nummer2 :TJ:
+            Resultat ist y5 + nummer2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

@@ -1,0 +1,19 @@
+Klasse Rechner452$:TJ:
+    
+    Funktion x5_zahl3_rechne$:TJ:
+        IFFFFFFF x5 < zahl3 :TJ:
+            Resultat ist x5 + zahl3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer5_y4_rechne$:TJ:
+        IFFFFFFF nummer5 <= y4 :TJ:
+            Resultat ist nummer5 - y4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

@@ -1,0 +1,43 @@
+Klasse Rechner463$:TJ:
+    
+    Funktion wert1_wert2_rechne$:TJ:
+        IFFFFFFF wert1 != wert2 :TJ:
+            Resultat ist wert1 + wert2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer1_zahl2_rechne$:TJ:
+        IFFFFFFF nummer1 != zahl2 :TJ:
+            Resultat ist nummer1 ** zahl2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl5_wert5_rechne$:TJ:
+        IFFFFFFF zahl5 != wert5 :TJ:
+            Resultat ist zahl5 % wert5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert2_wert4_rechne$:TJ:
+        IFFFFFFF wert2 < wert4 :TJ:
+            Resultat ist wert2 - wert4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert5_y1_rechne$:TJ:
+        IFFFFFFF wert5 != y1 :TJ:
+            Resultat ist wert5 * y1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

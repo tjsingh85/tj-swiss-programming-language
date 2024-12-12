@@ -1,0 +1,19 @@
+Klasse Rechner64$:TJ:
+    
+    Funktion y2_zahl5_rechne$:TJ:
+        IFFFFFFF y2 > zahl5 :TJ:
+            Resultat ist y2 - zahl5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y3_x3_rechne$:TJ:
+        IFFFFFFF y3 < x3 :TJ:
+            Resultat ist y3 % x3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

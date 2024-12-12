@@ -1,0 +1,43 @@
+Klasse Rechner578$:TJ:
+    
+    Funktion y3_wert4_rechne$:TJ:
+        IFFFFFFF y3 < wert4 :TJ:
+            Resultat ist y3 + wert4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert3_zahl4_rechne$:TJ:
+        IFFFFFFF wert3 != zahl4 :TJ:
+            Resultat ist wert3 + zahl4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x2_wert3_rechne$:TJ:
+        IFFFFFFF x2 < wert3 :TJ:
+            Resultat ist x2 / wert3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x4_wert4_rechne$:TJ:
+        IFFFFFFF x4 != wert4 :TJ:
+            Resultat ist x4 + wert4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl2_y4_rechne$:TJ:
+        IFFFFFFF zahl2 <= y4 :TJ:
+            Resultat ist zahl2 % y4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

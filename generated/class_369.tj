@@ -1,0 +1,27 @@
+Klasse Rechner369$:TJ:
+    
+    Funktion zahl1_wert3_rechne$:TJ:
+        IFFFFFFF zahl1 > wert3 :TJ:
+            Resultat ist zahl1 % wert3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer1_nummer4_rechne$:TJ:
+        IFFFFFFF nummer1 == nummer4 :TJ:
+            Resultat ist nummer1 ** nummer4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer5_zahl2_rechne$:TJ:
+        IFFFFFFF nummer5 < zahl2 :TJ:
+            Resultat ist nummer5 / zahl2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

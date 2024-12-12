@@ -1,0 +1,19 @@
+Klasse Kalkulator610$:TJ:
+    
+    Funktion zahl1_zahl4_rechne$:TJ:
+        IFFFFFFF zahl1 < zahl4 :TJ:
+            Resultat ist zahl1 - zahl4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl5_nummer5_rechne$:TJ:
+        IFFFFFFF zahl5 != nummer5 :TJ:
+            Resultat ist zahl5 - nummer5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

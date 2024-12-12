@@ -1,0 +1,27 @@
+Klasse Kalkulator97$:TJ:
+    
+    Funktion nummer2_nummer5_rechne$:TJ:
+        IFFFFFFF nummer2 < nummer5 :TJ:
+            Resultat ist nummer2 / nummer5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y5_y2_rechne$:TJ:
+        IFFFFFFF y5 < y2 :TJ:
+            Resultat ist y5 ** y2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer1_wert5_rechne$:TJ:
+        IFFFFFFF nummer1 != wert5 :TJ:
+            Resultat ist nummer1 * wert5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

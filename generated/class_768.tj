@@ -1,0 +1,43 @@
+Klasse Kalkulator768$:TJ:
+    
+    Funktion wert2_wert3_rechne$:TJ:
+        IFFFFFFF wert2 == wert3 :TJ:
+            Resultat ist wert2 ** wert3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert5_wert4_rechne$:TJ:
+        IFFFFFFF wert5 != wert4 :TJ:
+            Resultat ist wert5 % wert4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x3_nummer2_rechne$:TJ:
+        IFFFFFFF x3 <= nummer2 :TJ:
+            Resultat ist x3 / nummer2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert3_zahl1_rechne$:TJ:
+        IFFFFFFF wert3 < zahl1 :TJ:
+            Resultat ist wert3 / zahl1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert3_wert5_rechne$:TJ:
+        IFFFFFFF wert3 < wert5 :TJ:
+            Resultat ist wert3 - wert5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

@@ -1,0 +1,19 @@
+Klasse Rechner767$:TJ:
+    
+    Funktion y2_x5_rechne$:TJ:
+        IFFFFFFF y2 == x5 :TJ:
+            Resultat ist y2 ** x5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x2_x1_rechne$:TJ:
+        IFFFFFFF x2 != x1 :TJ:
+            Resultat ist x2 + x1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

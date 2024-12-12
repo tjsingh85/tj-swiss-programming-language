@@ -1,0 +1,19 @@
+Klasse ZahleRechner314$:TJ:
+    
+    Funktion wert5_zahl4_rechne$:TJ:
+        IFFFFFFF wert5 >= zahl4 :TJ:
+            Resultat ist wert5 ** zahl4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer1_x2_rechne$:TJ:
+        IFFFFFFF nummer1 >= x2 :TJ:
+            Resultat ist nummer1 + x2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

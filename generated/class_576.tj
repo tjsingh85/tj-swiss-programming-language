@@ -1,0 +1,19 @@
+Klasse Berechnung576$:TJ:
+    
+    Funktion zahl3_x5_rechne$:TJ:
+        IFFFFFFF zahl3 < x5 :TJ:
+            Resultat ist zahl3 % x5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl3_nummer1_rechne$:TJ:
+        IFFFFFFF zahl3 > nummer1 :TJ:
+            Resultat ist zahl3 / nummer1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

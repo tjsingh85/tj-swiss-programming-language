@@ -1,0 +1,19 @@
+Klasse Mathematik384$:TJ:
+    
+    Funktion wert2_nummer2_rechne$:TJ:
+        IFFFFFFF wert2 > nummer2 :TJ:
+            Resultat ist wert2 - nummer2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert4_zahl5_rechne$:TJ:
+        IFFFFFFF wert4 == zahl5 :TJ:
+            Resultat ist wert4 / zahl5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

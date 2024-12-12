@@ -1,0 +1,19 @@
+Klasse ZahleRechner946$:TJ:
+    
+    Funktion y5_nummer5_rechne$:TJ:
+        IFFFFFFF y5 == nummer5 :TJ:
+            Resultat ist y5 ** nummer5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x3_wert1_rechne$:TJ:
+        IFFFFFFF x3 == wert1 :TJ:
+            Resultat ist x3 * wert1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

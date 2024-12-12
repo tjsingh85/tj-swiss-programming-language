@@ -1,0 +1,35 @@
+Klasse ZahleRechner58$:TJ:
+    
+    Funktion nummer1_wert2_rechne$:TJ:
+        IFFFFFFF nummer1 < wert2 :TJ:
+            Resultat ist nummer1 - wert2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer1_wert5_rechne$:TJ:
+        IFFFFFFF nummer1 > wert5 :TJ:
+            Resultat ist nummer1 / wert5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x2_x1_rechne$:TJ:
+        IFFFFFFF x2 < x1 :TJ:
+            Resultat ist x2 ** x1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer4_y4_rechne$:TJ:
+        IFFFFFFF nummer4 >= y4 :TJ:
+            Resultat ist nummer4 % y4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

@@ -1,0 +1,27 @@
+Klasse Berechnung313$:TJ:
+    
+    Funktion y2_y2_rechne$:TJ:
+        IFFFFFFF y2 >= y2 :TJ:
+            Resultat ist y2 ** y2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x2_nummer4_rechne$:TJ:
+        IFFFFFFF x2 < nummer4 :TJ:
+            Resultat ist x2 / nummer4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert1_zahl2_rechne$:TJ:
+        IFFFFFFF wert1 > zahl2 :TJ:
+            Resultat ist wert1 % zahl2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

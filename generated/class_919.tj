@@ -1,0 +1,27 @@
+Klasse Mathematik919$:TJ:
+    
+    Funktion wert2_nummer4_rechne$:TJ:
+        IFFFFFFF wert2 != nummer4 :TJ:
+            Resultat ist wert2 % nummer4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer1_y1_rechne$:TJ:
+        IFFFFFFF nummer1 < y1 :TJ:
+            Resultat ist nummer1 - y1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl2_zahl1_rechne$:TJ:
+        IFFFFFFF zahl2 == zahl1 :TJ:
+            Resultat ist zahl2 - zahl1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

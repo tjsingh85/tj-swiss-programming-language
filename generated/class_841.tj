@@ -1,0 +1,35 @@
+Klasse Berechnung841$:TJ:
+    
+    Funktion zahl1_zahl3_rechne$:TJ:
+        IFFFFFFF zahl1 == zahl3 :TJ:
+            Resultat ist zahl1 * zahl3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer3_y4_rechne$:TJ:
+        IFFFFFFF nummer3 <= y4 :TJ:
+            Resultat ist nummer3 + y4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer2_y5_rechne$:TJ:
+        IFFFFFFF nummer2 <= y5 :TJ:
+            Resultat ist nummer2 ** y5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer5_zahl3_rechne$:TJ:
+        IFFFFFFF nummer5 != zahl3 :TJ:
+            Resultat ist nummer5 - zahl3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

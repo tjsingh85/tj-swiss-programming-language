@@ -1,0 +1,43 @@
+Klasse Mathematik42$:TJ:
+    
+    Funktion zahl3_nummer1_rechne$:TJ:
+        IFFFFFFF zahl3 < nummer1 :TJ:
+            Resultat ist zahl3 ** nummer1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert4_x3_rechne$:TJ:
+        IFFFFFFF wert4 != x3 :TJ:
+            Resultat ist wert4 - x3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert2_nummer5_rechne$:TJ:
+        IFFFFFFF wert2 < nummer5 :TJ:
+            Resultat ist wert2 - nummer5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer2_zahl2_rechne$:TJ:
+        IFFFFFFF nummer2 < zahl2 :TJ:
+            Resultat ist nummer2 ** zahl2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert3_zahl4_rechne$:TJ:
+        IFFFFFFF wert3 <= zahl4 :TJ:
+            Resultat ist wert3 / zahl4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

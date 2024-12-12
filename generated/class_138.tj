@@ -1,0 +1,27 @@
+Klasse Kalkulator138$:TJ:
+    
+    Funktion wert4_nummer5_rechne$:TJ:
+        IFFFFFFF wert4 < nummer5 :TJ:
+            Resultat ist wert4 % nummer5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert4_wert5_rechne$:TJ:
+        IFFFFFFF wert4 < wert5 :TJ:
+            Resultat ist wert4 % wert5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert3_wert5_rechne$:TJ:
+        IFFFFFFF wert3 < wert5 :TJ:
+            Resultat ist wert3 - wert5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

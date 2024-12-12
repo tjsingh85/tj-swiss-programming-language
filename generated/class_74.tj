@@ -1,0 +1,19 @@
+Klasse Mathematik74$:TJ:
+    
+    Funktion nummer5_zahl3_rechne$:TJ:
+        IFFFFFFF nummer5 > zahl3 :TJ:
+            Resultat ist nummer5 - zahl3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert1_wert1_rechne$:TJ:
+        IFFFFFFF wert1 == wert1 :TJ:
+            Resultat ist wert1 ** wert1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

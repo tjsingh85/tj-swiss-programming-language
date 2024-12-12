@@ -1,0 +1,43 @@
+Klasse ZahleRechner555$:TJ:
+    
+    Funktion y3_zahl1_rechne$:TJ:
+        IFFFFFFF y3 >= zahl1 :TJ:
+            Resultat ist y3 / zahl1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl3_y2_rechne$:TJ:
+        IFFFFFFF zahl3 == y2 :TJ:
+            Resultat ist zahl3 * y2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert2_nummer3_rechne$:TJ:
+        IFFFFFFF wert2 != nummer3 :TJ:
+            Resultat ist wert2 % nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y2_x2_rechne$:TJ:
+        IFFFFFFF y2 == x2 :TJ:
+            Resultat ist y2 - x2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y4_x2_rechne$:TJ:
+        IFFFFFFF y4 > x2 :TJ:
+            Resultat ist y4 / x2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

@@ -1,0 +1,19 @@
+Klasse ZahleRechner956$:TJ:
+    
+    Funktion x2_x2_rechne$:TJ:
+        IFFFFFFF x2 <= x2 :TJ:
+            Resultat ist x2 - x2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer4_wert4_rechne$:TJ:
+        IFFFFFFF nummer4 < wert4 :TJ:
+            Resultat ist nummer4 - wert4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

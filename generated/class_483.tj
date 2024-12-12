@@ -1,0 +1,43 @@
+Klasse ZahleRechner483$:TJ:
+    
+    Funktion x3_x5_rechne$:TJ:
+        IFFFFFFF x3 <= x5 :TJ:
+            Resultat ist x3 * x5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x2_zahl4_rechne$:TJ:
+        IFFFFFFF x2 <= zahl4 :TJ:
+            Resultat ist x2 / zahl4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert3_zahl1_rechne$:TJ:
+        IFFFFFFF wert3 == zahl1 :TJ:
+            Resultat ist wert3 - zahl1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer2_wert1_rechne$:TJ:
+        IFFFFFFF nummer2 == wert1 :TJ:
+            Resultat ist nummer2 / wert1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert3_x1_rechne$:TJ:
+        IFFFFFFF wert3 > x1 :TJ:
+            Resultat ist wert3 % x1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

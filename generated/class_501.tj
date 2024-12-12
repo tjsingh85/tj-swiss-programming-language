@@ -1,0 +1,27 @@
+Klasse Kalkulator501$:TJ:
+    
+    Funktion wert1_x4_rechne$:TJ:
+        IFFFFFFF wert1 < x4 :TJ:
+            Resultat ist wert1 - x4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x5_wert5_rechne$:TJ:
+        IFFFFFFF x5 < wert5 :TJ:
+            Resultat ist x5 + wert5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y4_wert4_rechne$:TJ:
+        IFFFFFFF y4 == wert4 :TJ:
+            Resultat ist y4 + wert4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

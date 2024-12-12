@@ -1,0 +1,19 @@
+Klasse Rechner894$:TJ:
+    
+    Funktion zahl2_x4_rechne$:TJ:
+        IFFFFFFF zahl2 != x4 :TJ:
+            Resultat ist zahl2 / x4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer4_zahl2_rechne$:TJ:
+        IFFFFFFF nummer4 > zahl2 :TJ:
+            Resultat ist nummer4 % zahl2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

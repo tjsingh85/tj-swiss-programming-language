@@ -1,0 +1,19 @@
+Klasse Mathematik439$:TJ:
+    
+    Funktion nummer3_x1_rechne$:TJ:
+        IFFFFFFF nummer3 >= x1 :TJ:
+            Resultat ist nummer3 - x1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x1_nummer5_rechne$:TJ:
+        IFFFFFFF x1 < nummer5 :TJ:
+            Resultat ist x1 % nummer5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

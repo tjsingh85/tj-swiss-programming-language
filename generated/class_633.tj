@@ -1,0 +1,27 @@
+Klasse Berechnung633$:TJ:
+    
+    Funktion y4_zahl2_rechne$:TJ:
+        IFFFFFFF y4 != zahl2 :TJ:
+            Resultat ist y4 / zahl2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y2_y3_rechne$:TJ:
+        IFFFFFFF y2 <= y3 :TJ:
+            Resultat ist y2 + y3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl4_x2_rechne$:TJ:
+        IFFFFFFF zahl4 < x2 :TJ:
+            Resultat ist zahl4 % x2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

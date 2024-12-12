@@ -1,0 +1,35 @@
+Klasse ZahleRechner202$:TJ:
+    
+    Funktion x1_y2_rechne$:TJ:
+        IFFFFFFF x1 > y2 :TJ:
+            Resultat ist x1 / y2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x2_wert2_rechne$:TJ:
+        IFFFFFFF x2 > wert2 :TJ:
+            Resultat ist x2 / wert2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl2_wert3_rechne$:TJ:
+        IFFFFFFF zahl2 == wert3 :TJ:
+            Resultat ist zahl2 / wert3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl3_nummer1_rechne$:TJ:
+        IFFFFFFF zahl3 > nummer1 :TJ:
+            Resultat ist zahl3 % nummer1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

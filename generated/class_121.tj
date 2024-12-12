@@ -1,0 +1,27 @@
+Klasse Mathematik121$:TJ:
+    
+    Funktion y1_wert3_rechne$:TJ:
+        IFFFFFFF y1 != wert3 :TJ:
+            Resultat ist y1 * wert3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer4_zahl4_rechne$:TJ:
+        IFFFFFFF nummer4 >= zahl4 :TJ:
+            Resultat ist nummer4 - zahl4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer2_nummer4_rechne$:TJ:
+        IFFFFFFF nummer2 != nummer4 :TJ:
+            Resultat ist nummer2 * nummer4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

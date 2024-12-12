@@ -1,0 +1,43 @@
+Klasse Kalkulator955$:TJ:
+    
+    Funktion wert5_nummer1_rechne$:TJ:
+        IFFFFFFF wert5 != nummer1 :TJ:
+            Resultat ist wert5 - nummer1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x1_wert2_rechne$:TJ:
+        IFFFFFFF x1 == wert2 :TJ:
+            Resultat ist x1 * wert2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl4_x2_rechne$:TJ:
+        IFFFFFFF zahl4 >= x2 :TJ:
+            Resultat ist zahl4 / x2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer3_x1_rechne$:TJ:
+        IFFFFFFF nummer3 > x1 :TJ:
+            Resultat ist nummer3 ** x1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert1_nummer5_rechne$:TJ:
+        IFFFFFFF wert1 <= nummer5 :TJ:
+            Resultat ist wert1 / nummer5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

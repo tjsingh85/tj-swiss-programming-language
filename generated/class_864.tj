@@ -1,0 +1,27 @@
+Klasse ZahleRechner864$:TJ:
+    
+    Funktion x5_nummer3_rechne$:TJ:
+        IFFFFFFF x5 >= nummer3 :TJ:
+            Resultat ist x5 + nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y1_wert2_rechne$:TJ:
+        IFFFFFFF y1 == wert2 :TJ:
+            Resultat ist y1 / wert2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert1_zahl5_rechne$:TJ:
+        IFFFFFFF wert1 < zahl5 :TJ:
+            Resultat ist wert1 + zahl5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

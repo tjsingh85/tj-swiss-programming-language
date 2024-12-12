@@ -1,0 +1,19 @@
+Klasse ZahleRechner848$:TJ:
+    
+    Funktion zahl3_nummer2_rechne$:TJ:
+        IFFFFFFF zahl3 > nummer2 :TJ:
+            Resultat ist zahl3 - nummer2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y2_y5_rechne$:TJ:
+        IFFFFFFF y2 != y5 :TJ:
+            Resultat ist y2 ** y5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

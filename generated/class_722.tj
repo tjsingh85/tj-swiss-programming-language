@@ -1,0 +1,35 @@
+Klasse ZahleRechner722$:TJ:
+    
+    Funktion nummer1_zahl3_rechne$:TJ:
+        IFFFFFFF nummer1 != zahl3 :TJ:
+            Resultat ist nummer1 % zahl3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x5_wert1_rechne$:TJ:
+        IFFFFFFF x5 >= wert1 :TJ:
+            Resultat ist x5 ** wert1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl2_zahl5_rechne$:TJ:
+        IFFFFFFF zahl2 < zahl5 :TJ:
+            Resultat ist zahl2 / zahl5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x2_wert5_rechne$:TJ:
+        IFFFFFFF x2 < wert5 :TJ:
+            Resultat ist x2 / wert5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

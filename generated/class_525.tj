@@ -1,0 +1,35 @@
+Klasse Kalkulator525$:TJ:
+    
+    Funktion zahl3_x3_rechne$:TJ:
+        IFFFFFFF zahl3 <= x3 :TJ:
+            Resultat ist zahl3 ** x3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert2_wert5_rechne$:TJ:
+        IFFFFFFF wert2 < wert5 :TJ:
+            Resultat ist wert2 - wert5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl5_x5_rechne$:TJ:
+        IFFFFFFF zahl5 >= x5 :TJ:
+            Resultat ist zahl5 * x5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl2_x2_rechne$:TJ:
+        IFFFFFFF zahl2 > x2 :TJ:
+            Resultat ist zahl2 ** x2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

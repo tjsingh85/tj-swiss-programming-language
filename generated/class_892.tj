@@ -1,0 +1,19 @@
+Klasse Kalkulator892$:TJ:
+    
+    Funktion zahl3_zahl4_rechne$:TJ:
+        IFFFFFFF zahl3 > zahl4 :TJ:
+            Resultat ist zahl3 ** zahl4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer5_nummer3_rechne$:TJ:
+        IFFFFFFF nummer5 <= nummer3 :TJ:
+            Resultat ist nummer5 * nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

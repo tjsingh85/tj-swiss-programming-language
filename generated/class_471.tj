@@ -1,0 +1,27 @@
+Klasse Berechnung471$:TJ:
+    
+    Funktion y5_x1_rechne$:TJ:
+        IFFFFFFF y5 < x1 :TJ:
+            Resultat ist y5 - x1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y5_zahl5_rechne$:TJ:
+        IFFFFFFF y5 > zahl5 :TJ:
+            Resultat ist y5 % zahl5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer4_wert1_rechne$:TJ:
+        IFFFFFFF nummer4 < wert1 :TJ:
+            Resultat ist nummer4 + wert1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

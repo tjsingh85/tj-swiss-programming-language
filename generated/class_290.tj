@@ -1,0 +1,35 @@
+Klasse Berechnung290$:TJ:
+    
+    Funktion y2_x2_rechne$:TJ:
+        IFFFFFFF y2 < x2 :TJ:
+            Resultat ist y2 ** x2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl5_y1_rechne$:TJ:
+        IFFFFFFF zahl5 != y1 :TJ:
+            Resultat ist zahl5 - y1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl3_wert5_rechne$:TJ:
+        IFFFFFFF zahl3 < wert5 :TJ:
+            Resultat ist zahl3 - wert5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert3_zahl3_rechne$:TJ:
+        IFFFFFFF wert3 == zahl3 :TJ:
+            Resultat ist wert3 % zahl3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

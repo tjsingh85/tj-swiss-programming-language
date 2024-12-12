@@ -1,0 +1,27 @@
+Klasse Rechner599$:TJ:
+    
+    Funktion x3_nummer1_rechne$:TJ:
+        IFFFFFFF x3 > nummer1 :TJ:
+            Resultat ist x3 ** nummer1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl5_zahl3_rechne$:TJ:
+        IFFFFFFF zahl5 >= zahl3 :TJ:
+            Resultat ist zahl5 - zahl3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x4_x2_rechne$:TJ:
+        IFFFFFFF x4 != x2 :TJ:
+            Resultat ist x4 ** x2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

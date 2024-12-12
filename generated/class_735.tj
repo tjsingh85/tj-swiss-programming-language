@@ -1,0 +1,35 @@
+Klasse Rechner735$:TJ:
+    
+    Funktion x4_x5_rechne$:TJ:
+        IFFFFFFF x4 <= x5 :TJ:
+            Resultat ist x4 ** x5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer1_y2_rechne$:TJ:
+        IFFFFFFF nummer1 != y2 :TJ:
+            Resultat ist nummer1 ** y2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer4_x3_rechne$:TJ:
+        IFFFFFFF nummer4 == x3 :TJ:
+            Resultat ist nummer4 * x3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl4_y5_rechne$:TJ:
+        IFFFFFFF zahl4 < y5 :TJ:
+            Resultat ist zahl4 * y5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

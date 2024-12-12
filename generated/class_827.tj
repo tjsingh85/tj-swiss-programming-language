@@ -1,0 +1,19 @@
+Klasse ZahleRechner827$:TJ:
+    
+    Funktion zahl3_zahl5_rechne$:TJ:
+        IFFFFFFF zahl3 != zahl5 :TJ:
+            Resultat ist zahl3 + zahl5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl4_x1_rechne$:TJ:
+        IFFFFFFF zahl4 > x1 :TJ:
+            Resultat ist zahl4 * x1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

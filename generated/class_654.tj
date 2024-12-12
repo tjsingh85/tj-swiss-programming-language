@@ -1,0 +1,27 @@
+Klasse ZahleRechner654$:TJ:
+    
+    Funktion x4_zahl3_rechne$:TJ:
+        IFFFFFFF x4 >= zahl3 :TJ:
+            Resultat ist x4 + zahl3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x1_y2_rechne$:TJ:
+        IFFFFFFF x1 >= y2 :TJ:
+            Resultat ist x1 + y2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x4_zahl2_rechne$:TJ:
+        IFFFFFFF x4 <= zahl2 :TJ:
+            Resultat ist x4 / zahl2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

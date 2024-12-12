@@ -1,0 +1,35 @@
+Klasse Mathematik370$:TJ:
+    
+    Funktion wert2_wert3_rechne$:TJ:
+        IFFFFFFF wert2 < wert3 :TJ:
+            Resultat ist wert2 + wert3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert3_wert4_rechne$:TJ:
+        IFFFFFFF wert3 != wert4 :TJ:
+            Resultat ist wert3 + wert4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer4_x5_rechne$:TJ:
+        IFFFFFFF nummer4 != x5 :TJ:
+            Resultat ist nummer4 * x5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x3_nummer3_rechne$:TJ:
+        IFFFFFFF x3 > nummer3 :TJ:
+            Resultat ist x3 + nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

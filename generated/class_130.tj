@@ -1,0 +1,27 @@
+Klasse Kalkulator130$:TJ:
+    
+    Funktion nummer5_wert5_rechne$:TJ:
+        IFFFFFFF nummer5 >= wert5 :TJ:
+            Resultat ist nummer5 - wert5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y5_y4_rechne$:TJ:
+        IFFFFFFF y5 <= y4 :TJ:
+            Resultat ist y5 * y4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer3_wert5_rechne$:TJ:
+        IFFFFFFF nummer3 <= wert5 :TJ:
+            Resultat ist nummer3 + wert5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

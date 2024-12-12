@@ -1,0 +1,27 @@
+Klasse Rechner268$:TJ:
+    
+    Funktion wert3_wert4_rechne$:TJ:
+        IFFFFFFF wert3 >= wert4 :TJ:
+            Resultat ist wert3 + wert4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer5_nummer4_rechne$:TJ:
+        IFFFFFFF nummer5 > nummer4 :TJ:
+            Resultat ist nummer5 / nummer4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y5_zahl5_rechne$:TJ:
+        IFFFFFFF y5 < zahl5 :TJ:
+            Resultat ist y5 + zahl5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

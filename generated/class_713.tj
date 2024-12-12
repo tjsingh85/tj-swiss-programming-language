@@ -1,0 +1,27 @@
+Klasse Berechnung713$:TJ:
+    
+    Funktion nummer3_x3_rechne$:TJ:
+        IFFFFFFF nummer3 != x3 :TJ:
+            Resultat ist nummer3 ** x3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert4_zahl4_rechne$:TJ:
+        IFFFFFFF wert4 <= zahl4 :TJ:
+            Resultat ist wert4 / zahl4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x1_nummer5_rechne$:TJ:
+        IFFFFFFF x1 < nummer5 :TJ:
+            Resultat ist x1 ** nummer5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

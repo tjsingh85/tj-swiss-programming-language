@@ -1,0 +1,35 @@
+Klasse Mathematik329$:TJ:
+    
+    Funktion zahl4_wert3_rechne$:TJ:
+        IFFFFFFF zahl4 >= wert3 :TJ:
+            Resultat ist zahl4 + wert3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl1_y5_rechne$:TJ:
+        IFFFFFFF zahl1 < y5 :TJ:
+            Resultat ist zahl1 * y5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer1_nummer3_rechne$:TJ:
+        IFFFFFFF nummer1 >= nummer3 :TJ:
+            Resultat ist nummer1 / nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl4_x4_rechne$:TJ:
+        IFFFFFFF zahl4 <= x4 :TJ:
+            Resultat ist zahl4 * x4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

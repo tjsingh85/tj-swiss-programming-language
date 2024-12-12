@@ -1,0 +1,27 @@
+Klasse Kalkulator142$:TJ:
+    
+    Funktion wert3_nummer2_rechne$:TJ:
+        IFFFFFFF wert3 != nummer2 :TJ:
+            Resultat ist wert3 - nummer2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer2_y1_rechne$:TJ:
+        IFFFFFFF nummer2 == y1 :TJ:
+            Resultat ist nummer2 % y1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer5_nummer3_rechne$:TJ:
+        IFFFFFFF nummer5 != nummer3 :TJ:
+            Resultat ist nummer5 + nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

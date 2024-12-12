@@ -1,0 +1,19 @@
+Klasse Berechnung678$:TJ:
+    
+    Funktion y4_x2_rechne$:TJ:
+        IFFFFFFF y4 < x2 :TJ:
+            Resultat ist y4 - x2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert5_zahl2_rechne$:TJ:
+        IFFFFFFF wert5 >= zahl2 :TJ:
+            Resultat ist wert5 * zahl2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

@@ -1,0 +1,19 @@
+Klasse Berechnung885$:TJ:
+    
+    Funktion wert5_zahl1_rechne$:TJ:
+        IFFFFFFF wert5 > zahl1 :TJ:
+            Resultat ist wert5 - zahl1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x2_wert5_rechne$:TJ:
+        IFFFFFFF x2 <= wert5 :TJ:
+            Resultat ist x2 * wert5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

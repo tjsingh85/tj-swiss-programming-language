@@ -1,0 +1,27 @@
+Klasse Rechner679$:TJ:
+    
+    Funktion x5_x4_rechne$:TJ:
+        IFFFFFFF x5 != x4 :TJ:
+            Resultat ist x5 - x4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert1_nummer3_rechne$:TJ:
+        IFFFFFFF wert1 == nummer3 :TJ:
+            Resultat ist wert1 + nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer4_x3_rechne$:TJ:
+        IFFFFFFF nummer4 > x3 :TJ:
+            Resultat ist nummer4 ** x3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

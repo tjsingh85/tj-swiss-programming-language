@@ -1,0 +1,19 @@
+Klasse ZahleRechner811$:TJ:
+    
+    Funktion x4_nummer4_rechne$:TJ:
+        IFFFFFFF x4 >= nummer4 :TJ:
+            Resultat ist x4 % nummer4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y1_y3_rechne$:TJ:
+        IFFFFFFF y1 == y3 :TJ:
+            Resultat ist y1 % y3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

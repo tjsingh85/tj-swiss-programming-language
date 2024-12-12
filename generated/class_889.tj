@@ -1,0 +1,27 @@
+Klasse ZahleRechner889$:TJ:
+    
+    Funktion x1_x4_rechne$:TJ:
+        IFFFFFFF x1 > x4 :TJ:
+            Resultat ist x1 % x4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer1_zahl3_rechne$:TJ:
+        IFFFFFFF nummer1 >= zahl3 :TJ:
+            Resultat ist nummer1 / zahl3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x4_wert3_rechne$:TJ:
+        IFFFFFFF x4 != wert3 :TJ:
+            Resultat ist x4 % wert3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

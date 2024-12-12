@@ -1,0 +1,19 @@
+Klasse Berechnung182$:TJ:
+    
+    Funktion nummer1_y3_rechne$:TJ:
+        IFFFFFFF nummer1 == y3 :TJ:
+            Resultat ist nummer1 * y3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer3_nummer4_rechne$:TJ:
+        IFFFFFFF nummer3 != nummer4 :TJ:
+            Resultat ist nummer3 ** nummer4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

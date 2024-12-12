@@ -1,0 +1,35 @@
+Klasse Rechner588$:TJ:
+    
+    Funktion wert5_wert2_rechne$:TJ:
+        IFFFFFFF wert5 >= wert2 :TJ:
+            Resultat ist wert5 / wert2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer5_zahl2_rechne$:TJ:
+        IFFFFFFF nummer5 < zahl2 :TJ:
+            Resultat ist nummer5 / zahl2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y2_x2_rechne$:TJ:
+        IFFFFFFF y2 < x2 :TJ:
+            Resultat ist y2 % x2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert2_zahl5_rechne$:TJ:
+        IFFFFFFF wert2 == zahl5 :TJ:
+            Resultat ist wert2 - zahl5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

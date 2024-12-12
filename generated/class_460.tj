@@ -1,0 +1,43 @@
+Klasse Kalkulator460$:TJ:
+    
+    Funktion x3_zahl1_rechne$:TJ:
+        IFFFFFFF x3 != zahl1 :TJ:
+            Resultat ist x3 + zahl1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert5_zahl4_rechne$:TJ:
+        IFFFFFFF wert5 != zahl4 :TJ:
+            Resultat ist wert5 + zahl4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl5_y4_rechne$:TJ:
+        IFFFFFFF zahl5 == y4 :TJ:
+            Resultat ist zahl5 - y4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert3_zahl2_rechne$:TJ:
+        IFFFFFFF wert3 > zahl2 :TJ:
+            Resultat ist wert3 % zahl2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl3_y2_rechne$:TJ:
+        IFFFFFFF zahl3 <= y2 :TJ:
+            Resultat ist zahl3 % y2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

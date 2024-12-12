@@ -1,0 +1,27 @@
+Klasse Berechnung645$:TJ:
+    
+    Funktion zahl5_nummer2_rechne$:TJ:
+        IFFFFFFF zahl5 < nummer2 :TJ:
+            Resultat ist zahl5 * nummer2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl2_nummer2_rechne$:TJ:
+        IFFFFFFF zahl2 >= nummer2 :TJ:
+            Resultat ist zahl2 ** nummer2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x1_wert5_rechne$:TJ:
+        IFFFFFFF x1 == wert5 :TJ:
+            Resultat ist x1 * wert5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

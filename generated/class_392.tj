@@ -1,0 +1,19 @@
+Klasse Rechner392$:TJ:
+    
+    Funktion nummer2_zahl3_rechne$:TJ:
+        IFFFFFFF nummer2 <= zahl3 :TJ:
+            Resultat ist nummer2 - zahl3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl5_nummer4_rechne$:TJ:
+        IFFFFFFF zahl5 < nummer4 :TJ:
+            Resultat ist zahl5 / nummer4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

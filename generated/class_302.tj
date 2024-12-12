@@ -1,0 +1,19 @@
+Klasse Berechnung302$:TJ:
+    
+    Funktion x3_x2_rechne$:TJ:
+        IFFFFFFF x3 <= x2 :TJ:
+            Resultat ist x3 / x2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer1_nummer1_rechne$:TJ:
+        IFFFFFFF nummer1 < nummer1 :TJ:
+            Resultat ist nummer1 - nummer1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

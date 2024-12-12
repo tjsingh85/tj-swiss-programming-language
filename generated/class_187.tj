@@ -1,0 +1,19 @@
+Klasse Kalkulator187$:TJ:
+    
+    Funktion nummer3_x1_rechne$:TJ:
+        IFFFFFFF nummer3 > x1 :TJ:
+            Resultat ist nummer3 / x1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl1_x4_rechne$:TJ:
+        IFFFFFFF zahl1 >= x4 :TJ:
+            Resultat ist zahl1 / x4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

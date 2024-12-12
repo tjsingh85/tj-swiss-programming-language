@@ -1,0 +1,27 @@
+Klasse Kalkulator749$:TJ:
+    
+    Funktion y4_zahl2_rechne$:TJ:
+        IFFFFFFF y4 > zahl2 :TJ:
+            Resultat ist y4 % zahl2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl1_nummer4_rechne$:TJ:
+        IFFFFFFF zahl1 > nummer4 :TJ:
+            Resultat ist zahl1 ** nummer4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x2_nummer4_rechne$:TJ:
+        IFFFFFFF x2 == nummer4 :TJ:
+            Resultat ist x2 ** nummer4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

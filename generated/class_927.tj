@@ -1,0 +1,43 @@
+Klasse Kalkulator927$:TJ:
+    
+    Funktion wert1_nummer2_rechne$:TJ:
+        IFFFFFFF wert1 > nummer2 :TJ:
+            Resultat ist wert1 + nummer2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer1_zahl4_rechne$:TJ:
+        IFFFFFFF nummer1 < zahl4 :TJ:
+            Resultat ist nummer1 * zahl4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y3_wert2_rechne$:TJ:
+        IFFFFFFF y3 < wert2 :TJ:
+            Resultat ist y3 ** wert2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert2_nummer4_rechne$:TJ:
+        IFFFFFFF wert2 != nummer4 :TJ:
+            Resultat ist wert2 ** nummer4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y3_y1_rechne$:TJ:
+        IFFFFFFF y3 >= y1 :TJ:
+            Resultat ist y3 - y1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

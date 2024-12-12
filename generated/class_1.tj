@@ -1,0 +1,19 @@
+Klasse ZahleRechner1$:TJ:
+    
+    Funktion x2_y5_rechne$:TJ:
+        IFFFFFFF x2 < y5 :TJ:
+            Resultat ist x2 ** y5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y3_y1_rechne$:TJ:
+        IFFFFFFF y3 > y1 :TJ:
+            Resultat ist y3 * y1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

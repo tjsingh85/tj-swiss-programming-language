@@ -1,0 +1,27 @@
+Klasse Berechnung554$:TJ:
+    
+    Funktion nummer5_x2_rechne$:TJ:
+        IFFFFFFF nummer5 == x2 :TJ:
+            Resultat ist nummer5 / x2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y5_y3_rechne$:TJ:
+        IFFFFFFF y5 <= y3 :TJ:
+            Resultat ist y5 ** y3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y2_zahl4_rechne$:TJ:
+        IFFFFFFF y2 != zahl4 :TJ:
+            Resultat ist y2 + zahl4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

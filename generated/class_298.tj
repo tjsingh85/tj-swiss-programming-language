@@ -1,0 +1,27 @@
+Klasse Rechner298$:TJ:
+    
+    Funktion wert5_wert5_rechne$:TJ:
+        IFFFFFFF wert5 != wert5 :TJ:
+            Resultat ist wert5 - wert5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert3_wert5_rechne$:TJ:
+        IFFFFFFF wert3 > wert5 :TJ:
+            Resultat ist wert3 / wert5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl2_y3_rechne$:TJ:
+        IFFFFFFF zahl2 > y3 :TJ:
+            Resultat ist zahl2 ** y3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

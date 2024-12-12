@@ -1,0 +1,35 @@
+Klasse ZahleRechner476$:TJ:
+    
+    Funktion x1_x4_rechne$:TJ:
+        IFFFFFFF x1 >= x4 :TJ:
+            Resultat ist x1 / x4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl1_zahl4_rechne$:TJ:
+        IFFFFFFF zahl1 > zahl4 :TJ:
+            Resultat ist zahl1 % zahl4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer1_nummer5_rechne$:TJ:
+        IFFFFFFF nummer1 > nummer5 :TJ:
+            Resultat ist nummer1 - nummer5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y1_x4_rechne$:TJ:
+        IFFFFFFF y1 <= x4 :TJ:
+            Resultat ist y1 / x4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

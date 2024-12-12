@@ -1,0 +1,19 @@
+Klasse Rechner923$:TJ:
+    
+    Funktion zahl5_zahl3_rechne$:TJ:
+        IFFFFFFF zahl5 == zahl3 :TJ:
+            Resultat ist zahl5 * zahl3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x4_y4_rechne$:TJ:
+        IFFFFFFF x4 > y4 :TJ:
+            Resultat ist x4 * y4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

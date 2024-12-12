@@ -1,0 +1,35 @@
+Klasse Mathematik836$:TJ:
+    
+    Funktion nummer1_x5_rechne$:TJ:
+        IFFFFFFF nummer1 > x5 :TJ:
+            Resultat ist nummer1 % x5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x5_nummer1_rechne$:TJ:
+        IFFFFFFF x5 >= nummer1 :TJ:
+            Resultat ist x5 ** nummer1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x1_x3_rechne$:TJ:
+        IFFFFFFF x1 < x3 :TJ:
+            Resultat ist x1 / x3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x5_zahl4_rechne$:TJ:
+        IFFFFFFF x5 >= zahl4 :TJ:
+            Resultat ist x5 / zahl4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

@@ -1,0 +1,19 @@
+Klasse Mathematik869$:TJ:
+    
+    Funktion x5_wert3_rechne$:TJ:
+        IFFFFFFF x5 >= wert3 :TJ:
+            Resultat ist x5 - wert3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl3_y1_rechne$:TJ:
+        IFFFFFFF zahl3 >= y1 :TJ:
+            Resultat ist zahl3 ** y1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

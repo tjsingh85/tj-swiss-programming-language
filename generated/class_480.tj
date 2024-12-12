@@ -1,0 +1,27 @@
+Klasse Kalkulator480$:TJ:
+    
+    Funktion zahl3_x1_rechne$:TJ:
+        IFFFFFFF zahl3 <= x1 :TJ:
+            Resultat ist zahl3 * x1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y4_nummer4_rechne$:TJ:
+        IFFFFFFF y4 != nummer4 :TJ:
+            Resultat ist y4 * nummer4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert1_nummer5_rechne$:TJ:
+        IFFFFFFF wert1 == nummer5 :TJ:
+            Resultat ist wert1 % nummer5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

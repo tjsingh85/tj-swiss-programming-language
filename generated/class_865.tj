@@ -1,0 +1,27 @@
+Klasse Mathematik865$:TJ:
+    
+    Funktion zahl4_y5_rechne$:TJ:
+        IFFFFFFF zahl4 < y5 :TJ:
+            Resultat ist zahl4 - y5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer4_wert2_rechne$:TJ:
+        IFFFFFFF nummer4 > wert2 :TJ:
+            Resultat ist nummer4 ** wert2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y4_zahl1_rechne$:TJ:
+        IFFFFFFF y4 < zahl1 :TJ:
+            Resultat ist y4 ** zahl1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

@@ -1,0 +1,19 @@
+Klasse Rechner362$:TJ:
+    
+    Funktion zahl2_nummer4_rechne$:TJ:
+        IFFFFFFF zahl2 >= nummer4 :TJ:
+            Resultat ist zahl2 + nummer4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y5_wert4_rechne$:TJ:
+        IFFFFFFF y5 > wert4 :TJ:
+            Resultat ist y5 - wert4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

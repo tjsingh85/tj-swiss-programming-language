@@ -1,0 +1,19 @@
+Klasse Berechnung895$:TJ:
+    
+    Funktion nummer5_wert1_rechne$:TJ:
+        IFFFFFFF nummer5 <= wert1 :TJ:
+            Resultat ist nummer5 + wert1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert3_wert3_rechne$:TJ:
+        IFFFFFFF wert3 < wert3 :TJ:
+            Resultat ist wert3 % wert3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

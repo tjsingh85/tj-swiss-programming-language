@@ -1,0 +1,19 @@
+Klasse Mathematik682$:TJ:
+    
+    Funktion wert1_y1_rechne$:TJ:
+        IFFFFFFF wert1 == y1 :TJ:
+            Resultat ist wert1 % y1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x1_zahl3_rechne$:TJ:
+        IFFFFFFF x1 != zahl3 :TJ:
+            Resultat ist x1 % zahl3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

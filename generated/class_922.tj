@@ -1,0 +1,43 @@
+Klasse Mathematik922$:TJ:
+    
+    Funktion zahl5_zahl3_rechne$:TJ:
+        IFFFFFFF zahl5 == zahl3 :TJ:
+            Resultat ist zahl5 + zahl3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y4_x1_rechne$:TJ:
+        IFFFFFFF y4 <= x1 :TJ:
+            Resultat ist y4 % x1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y5_zahl3_rechne$:TJ:
+        IFFFFFFF y5 == zahl3 :TJ:
+            Resultat ist y5 ** zahl3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl1_nummer3_rechne$:TJ:
+        IFFFFFFF zahl1 == nummer3 :TJ:
+            Resultat ist zahl1 * nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert2_x2_rechne$:TJ:
+        IFFFFFFF wert2 <= x2 :TJ:
+            Resultat ist wert2 % x2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

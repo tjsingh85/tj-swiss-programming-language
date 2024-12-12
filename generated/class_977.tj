@@ -1,0 +1,27 @@
+Klasse Kalkulator977$:TJ:
+    
+    Funktion nummer2_x2_rechne$:TJ:
+        IFFFFFFF nummer2 >= x2 :TJ:
+            Resultat ist nummer2 % x2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x5_zahl4_rechne$:TJ:
+        IFFFFFFF x5 >= zahl4 :TJ:
+            Resultat ist x5 ** zahl4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer4_zahl4_rechne$:TJ:
+        IFFFFFFF nummer4 > zahl4 :TJ:
+            Resultat ist nummer4 / zahl4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

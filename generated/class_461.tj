@@ -1,0 +1,35 @@
+Klasse Mathematik461$:TJ:
+    
+    Funktion nummer4_nummer4_rechne$:TJ:
+        IFFFFFFF nummer4 >= nummer4 :TJ:
+            Resultat ist nummer4 * nummer4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y2_nummer5_rechne$:TJ:
+        IFFFFFFF y2 == nummer5 :TJ:
+            Resultat ist y2 * nummer5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y4_nummer2_rechne$:TJ:
+        IFFFFFFF y4 > nummer2 :TJ:
+            Resultat ist y4 % nummer2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert4_nummer5_rechne$:TJ:
+        IFFFFFFF wert4 == nummer5 :TJ:
+            Resultat ist wert4 * nummer5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

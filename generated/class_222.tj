@@ -1,0 +1,19 @@
+Klasse ZahleRechner222$:TJ:
+    
+    Funktion nummer1_zahl3_rechne$:TJ:
+        IFFFFFFF nummer1 != zahl3 :TJ:
+            Resultat ist nummer1 / zahl3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert3_nummer3_rechne$:TJ:
+        IFFFFFFF wert3 < nummer3 :TJ:
+            Resultat ist wert3 % nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

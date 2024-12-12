@@ -1,0 +1,27 @@
+Klasse Kalkulator789$:TJ:
+    
+    Funktion y4_nummer3_rechne$:TJ:
+        IFFFFFFF y4 < nummer3 :TJ:
+            Resultat ist y4 / nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl3_y3_rechne$:TJ:
+        IFFFFFFF zahl3 > y3 :TJ:
+            Resultat ist zahl3 / y3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y4_nummer3_rechne$:TJ:
+        IFFFFFFF y4 != nummer3 :TJ:
+            Resultat ist y4 % nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

@@ -1,0 +1,19 @@
+Klasse Berechnung269$:TJ:
+    
+    Funktion nummer4_y5_rechne$:TJ:
+        IFFFFFFF nummer4 > y5 :TJ:
+            Resultat ist nummer4 % y5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer2_zahl4_rechne$:TJ:
+        IFFFFFFF nummer2 > zahl4 :TJ:
+            Resultat ist nummer2 * zahl4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

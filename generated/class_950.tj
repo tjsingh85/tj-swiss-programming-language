@@ -1,0 +1,27 @@
+Klasse Kalkulator950$:TJ:
+    
+    Funktion wert2_zahl2_rechne$:TJ:
+        IFFFFFFF wert2 > zahl2 :TJ:
+            Resultat ist wert2 * zahl2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y5_y3_rechne$:TJ:
+        IFFFFFFF y5 != y3 :TJ:
+            Resultat ist y5 % y3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert2_y2_rechne$:TJ:
+        IFFFFFFF wert2 <= y2 :TJ:
+            Resultat ist wert2 / y2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

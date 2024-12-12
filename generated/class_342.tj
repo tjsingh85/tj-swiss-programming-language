@@ -1,0 +1,19 @@
+Klasse Berechnung342$:TJ:
+    
+    Funktion wert4_zahl2_rechne$:TJ:
+        IFFFFFFF wert4 < zahl2 :TJ:
+            Resultat ist wert4 % zahl2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl5_nummer3_rechne$:TJ:
+        IFFFFFFF zahl5 == nummer3 :TJ:
+            Resultat ist zahl5 + nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

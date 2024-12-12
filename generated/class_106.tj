@@ -1,0 +1,35 @@
+Klasse ZahleRechner106$:TJ:
+    
+    Funktion y5_y2_rechne$:TJ:
+        IFFFFFFF y5 > y2 :TJ:
+            Resultat ist y5 + y2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl2_wert3_rechne$:TJ:
+        IFFFFFFF zahl2 < wert3 :TJ:
+            Resultat ist zahl2 - wert3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x3_x3_rechne$:TJ:
+        IFFFFFFF x3 >= x3 :TJ:
+            Resultat ist x3 - x3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x5_wert4_rechne$:TJ:
+        IFFFFFFF x5 < wert4 :TJ:
+            Resultat ist x5 * wert4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

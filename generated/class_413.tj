@@ -1,0 +1,19 @@
+Klasse ZahleRechner413$:TJ:
+    
+    Funktion zahl2_wert2_rechne$:TJ:
+        IFFFFFFF zahl2 >= wert2 :TJ:
+            Resultat ist zahl2 + wert2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x5_x5_rechne$:TJ:
+        IFFFFFFF x5 == x5 :TJ:
+            Resultat ist x5 - x5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

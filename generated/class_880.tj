@@ -1,0 +1,27 @@
+Klasse Berechnung880$:TJ:
+    
+    Funktion y2_zahl1_rechne$:TJ:
+        IFFFFFFF y2 == zahl1 :TJ:
+            Resultat ist y2 + zahl1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y1_nummer3_rechne$:TJ:
+        IFFFFFFF y1 != nummer3 :TJ:
+            Resultat ist y1 % nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer5_y1_rechne$:TJ:
+        IFFFFFFF nummer5 > y1 :TJ:
+            Resultat ist nummer5 / y1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

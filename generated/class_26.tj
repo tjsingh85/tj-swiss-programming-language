@@ -1,0 +1,27 @@
+Klasse Rechner26$:TJ:
+    
+    Funktion y3_wert2_rechne$:TJ:
+        IFFFFFFF y3 <= wert2 :TJ:
+            Resultat ist y3 - wert2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert4_wert4_rechne$:TJ:
+        IFFFFFFF wert4 < wert4 :TJ:
+            Resultat ist wert4 - wert4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y1_y2_rechne$:TJ:
+        IFFFFFFF y1 < y2 :TJ:
+            Resultat ist y1 * y2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

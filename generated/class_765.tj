@@ -1,0 +1,35 @@
+Klasse Rechner765$:TJ:
+    
+    Funktion nummer2_x5_rechne$:TJ:
+        IFFFFFFF nummer2 != x5 :TJ:
+            Resultat ist nummer2 * x5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer3_x3_rechne$:TJ:
+        IFFFFFFF nummer3 >= x3 :TJ:
+            Resultat ist nummer3 % x3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x3_nummer2_rechne$:TJ:
+        IFFFFFFF x3 > nummer2 :TJ:
+            Resultat ist x3 * nummer2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl5_nummer3_rechne$:TJ:
+        IFFFFFFF zahl5 > nummer3 :TJ:
+            Resultat ist zahl5 / nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

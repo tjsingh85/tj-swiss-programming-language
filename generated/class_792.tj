@@ -1,0 +1,19 @@
+Klasse Mathematik792$:TJ:
+    
+    Funktion nummer3_wert1_rechne$:TJ:
+        IFFFFFFF nummer3 == wert1 :TJ:
+            Resultat ist nummer3 % wert1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer1_nummer1_rechne$:TJ:
+        IFFFFFFF nummer1 <= nummer1 :TJ:
+            Resultat ist nummer1 / nummer1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

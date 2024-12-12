@@ -1,0 +1,19 @@
+Klasse Berechnung159$:TJ:
+    
+    Funktion y5_wert5_rechne$:TJ:
+        IFFFFFFF y5 != wert5 :TJ:
+            Resultat ist y5 / wert5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer5_zahl4_rechne$:TJ:
+        IFFFFFFF nummer5 != zahl4 :TJ:
+            Resultat ist nummer5 + zahl4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

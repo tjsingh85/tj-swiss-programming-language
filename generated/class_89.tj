@@ -1,0 +1,27 @@
+Klasse Mathematik89$:TJ:
+    
+    Funktion wert4_y2_rechne$:TJ:
+        IFFFFFFF wert4 != y2 :TJ:
+            Resultat ist wert4 - y2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x3_y5_rechne$:TJ:
+        IFFFFFFF x3 <= y5 :TJ:
+            Resultat ist x3 / y5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl5_wert5_rechne$:TJ:
+        IFFFFFFF zahl5 <= wert5 :TJ:
+            Resultat ist zahl5 % wert5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

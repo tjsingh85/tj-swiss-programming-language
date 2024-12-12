@@ -1,0 +1,19 @@
+Klasse Rechner243$:TJ:
+    
+    Funktion wert2_nummer3_rechne$:TJ:
+        IFFFFFFF wert2 >= nummer3 :TJ:
+            Resultat ist wert2 / nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer1_nummer4_rechne$:TJ:
+        IFFFFFFF nummer1 > nummer4 :TJ:
+            Resultat ist nummer1 + nummer4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

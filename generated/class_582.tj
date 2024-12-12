@@ -1,0 +1,19 @@
+Klasse ZahleRechner582$:TJ:
+    
+    Funktion nummer5_nummer2_rechne$:TJ:
+        IFFFFFFF nummer5 < nummer2 :TJ:
+            Resultat ist nummer5 * nummer2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer2_nummer5_rechne$:TJ:
+        IFFFFFFF nummer2 != nummer5 :TJ:
+            Resultat ist nummer2 % nummer5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

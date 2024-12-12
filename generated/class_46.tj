@@ -1,0 +1,19 @@
+Klasse Kalkulator46$:TJ:
+    
+    Funktion nummer2_y5_rechne$:TJ:
+        IFFFFFFF nummer2 < y5 :TJ:
+            Resultat ist nummer2 / y5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y1_nummer5_rechne$:TJ:
+        IFFFFFFF y1 <= nummer5 :TJ:
+            Resultat ist y1 * nummer5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

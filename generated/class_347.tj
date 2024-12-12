@@ -1,0 +1,43 @@
+Klasse ZahleRechner347$:TJ:
+    
+    Funktion y5_wert2_rechne$:TJ:
+        IFFFFFFF y5 != wert2 :TJ:
+            Resultat ist y5 - wert2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl5_zahl5_rechne$:TJ:
+        IFFFFFFF zahl5 == zahl5 :TJ:
+            Resultat ist zahl5 + zahl5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl1_x4_rechne$:TJ:
+        IFFFFFFF zahl1 <= x4 :TJ:
+            Resultat ist zahl1 % x4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer2_y3_rechne$:TJ:
+        IFFFFFFF nummer2 >= y3 :TJ:
+            Resultat ist nummer2 % y3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl4_x3_rechne$:TJ:
+        IFFFFFFF zahl4 == x3 :TJ:
+            Resultat ist zahl4 ** x3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

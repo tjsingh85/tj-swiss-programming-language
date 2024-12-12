@@ -1,0 +1,35 @@
+Klasse Rechner609$:TJ:
+    
+    Funktion nummer3_zahl4_rechne$:TJ:
+        IFFFFFFF nummer3 == zahl4 :TJ:
+            Resultat ist nummer3 / zahl4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y5_zahl5_rechne$:TJ:
+        IFFFFFFF y5 <= zahl5 :TJ:
+            Resultat ist y5 / zahl5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl1_wert5_rechne$:TJ:
+        IFFFFFFF zahl1 < wert5 :TJ:
+            Resultat ist zahl1 % wert5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y5_y2_rechne$:TJ:
+        IFFFFFFF y5 > y2 :TJ:
+            Resultat ist y5 * y2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

@@ -1,0 +1,35 @@
+Klasse Mathematik773$:TJ:
+    
+    Funktion wert5_zahl5_rechne$:TJ:
+        IFFFFFFF wert5 == zahl5 :TJ:
+            Resultat ist wert5 % zahl5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer5_wert4_rechne$:TJ:
+        IFFFFFFF nummer5 == wert4 :TJ:
+            Resultat ist nummer5 / wert4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x1_x2_rechne$:TJ:
+        IFFFFFFF x1 > x2 :TJ:
+            Resultat ist x1 ** x2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x3_nummer4_rechne$:TJ:
+        IFFFFFFF x3 != nummer4 :TJ:
+            Resultat ist x3 / nummer4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

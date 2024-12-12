@@ -1,0 +1,19 @@
+Klasse Mathematik968$:TJ:
+    
+    Funktion y5_zahl2_rechne$:TJ:
+        IFFFFFFF y5 > zahl2 :TJ:
+            Resultat ist y5 + zahl2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer4_wert3_rechne$:TJ:
+        IFFFFFFF nummer4 < wert3 :TJ:
+            Resultat ist nummer4 - wert3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

@@ -1,0 +1,35 @@
+Klasse Mathematik466$:TJ:
+    
+    Funktion x1_x2_rechne$:TJ:
+        IFFFFFFF x1 <= x2 :TJ:
+            Resultat ist x1 / x2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y5_y3_rechne$:TJ:
+        IFFFFFFF y5 == y3 :TJ:
+            Resultat ist y5 / y3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y2_nummer3_rechne$:TJ:
+        IFFFFFFF y2 < nummer3 :TJ:
+            Resultat ist y2 ** nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x2_x2_rechne$:TJ:
+        IFFFFFFF x2 > x2 :TJ:
+            Resultat ist x2 * x2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

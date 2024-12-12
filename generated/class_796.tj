@@ -1,0 +1,27 @@
+Klasse Rechner796$:TJ:
+    
+    Funktion zahl2_y3_rechne$:TJ:
+        IFFFFFFF zahl2 > y3 :TJ:
+            Resultat ist zahl2 + y3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y4_nummer1_rechne$:TJ:
+        IFFFFFFF y4 == nummer1 :TJ:
+            Resultat ist y4 % nummer1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x2_y3_rechne$:TJ:
+        IFFFFFFF x2 < y3 :TJ:
+            Resultat ist x2 % y3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

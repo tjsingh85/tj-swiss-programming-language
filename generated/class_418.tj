@@ -1,0 +1,27 @@
+Klasse Mathematik418$:TJ:
+    
+    Funktion x1_zahl2_rechne$:TJ:
+        IFFFFFFF x1 <= zahl2 :TJ:
+            Resultat ist x1 / zahl2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer5_y2_rechne$:TJ:
+        IFFFFFFF nummer5 <= y2 :TJ:
+            Resultat ist nummer5 / y2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y5_y3_rechne$:TJ:
+        IFFFFFFF y5 >= y3 :TJ:
+            Resultat ist y5 % y3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

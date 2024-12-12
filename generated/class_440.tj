@@ -1,0 +1,19 @@
+Klasse Mathematik440$:TJ:
+    
+    Funktion nummer1_y2_rechne$:TJ:
+        IFFFFFFF nummer1 <= y2 :TJ:
+            Resultat ist nummer1 % y2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer5_wert4_rechne$:TJ:
+        IFFFFFFF nummer5 <= wert4 :TJ:
+            Resultat ist nummer5 / wert4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

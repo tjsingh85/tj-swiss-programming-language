@@ -1,0 +1,43 @@
+Klasse ZahleRechner694$:TJ:
+    
+    Funktion zahl5_y2_rechne$:TJ:
+        IFFFFFFF zahl5 >= y2 :TJ:
+            Resultat ist zahl5 ** y2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl3_zahl5_rechne$:TJ:
+        IFFFFFFF zahl3 <= zahl5 :TJ:
+            Resultat ist zahl3 % zahl5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y5_x5_rechne$:TJ:
+        IFFFFFFF y5 >= x5 :TJ:
+            Resultat ist y5 - x5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer3_nummer4_rechne$:TJ:
+        IFFFFFFF nummer3 < nummer4 :TJ:
+            Resultat ist nummer3 * nummer4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x4_nummer5_rechne$:TJ:
+        IFFFFFFF x4 >= nummer5 :TJ:
+            Resultat ist x4 / nummer5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

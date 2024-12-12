@@ -1,0 +1,19 @@
+Klasse ZahleRechner698$:TJ:
+    
+    Funktion x1_zahl3_rechne$:TJ:
+        IFFFFFFF x1 >= zahl3 :TJ:
+            Resultat ist x1 + zahl3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x2_x3_rechne$:TJ:
+        IFFFFFFF x2 > x3 :TJ:
+            Resultat ist x2 + x3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

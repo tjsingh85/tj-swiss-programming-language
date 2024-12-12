@@ -1,0 +1,19 @@
+Klasse Mathematik861$:TJ:
+    
+    Funktion zahl3_nummer3_rechne$:TJ:
+        IFFFFFFF zahl3 == nummer3 :TJ:
+            Resultat ist zahl3 / nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert4_nummer2_rechne$:TJ:
+        IFFFFFFF wert4 != nummer2 :TJ:
+            Resultat ist wert4 ** nummer2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

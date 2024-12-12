@@ -1,0 +1,19 @@
+Klasse Kalkulator408$:TJ:
+    
+    Funktion zahl2_y4_rechne$:TJ:
+        IFFFFFFF zahl2 != y4 :TJ:
+            Resultat ist zahl2 % y4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl1_y3_rechne$:TJ:
+        IFFFFFFF zahl1 < y3 :TJ:
+            Resultat ist zahl1 % y3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

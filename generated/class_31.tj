@@ -1,0 +1,27 @@
+Klasse Rechner31$:TJ:
+    
+    Funktion wert2_wert1_rechne$:TJ:
+        IFFFFFFF wert2 < wert1 :TJ:
+            Resultat ist wert2 % wert1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x1_wert4_rechne$:TJ:
+        IFFFFFFF x1 < wert4 :TJ:
+            Resultat ist x1 / wert4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl5_wert4_rechne$:TJ:
+        IFFFFFFF zahl5 < wert4 :TJ:
+            Resultat ist zahl5 % wert4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

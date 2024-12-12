@@ -1,0 +1,27 @@
+Klasse Kalkulator846$:TJ:
+    
+    Funktion x1_x5_rechne$:TJ:
+        IFFFFFFF x1 >= x5 :TJ:
+            Resultat ist x1 + x5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer3_wert3_rechne$:TJ:
+        IFFFFFFF nummer3 == wert3 :TJ:
+            Resultat ist nummer3 % wert3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y3_x2_rechne$:TJ:
+        IFFFFFFF y3 >= x2 :TJ:
+            Resultat ist y3 % x2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

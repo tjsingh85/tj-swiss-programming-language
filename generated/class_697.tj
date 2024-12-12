@@ -1,0 +1,27 @@
+Klasse Berechnung697$:TJ:
+    
+    Funktion wert2_wert2_rechne$:TJ:
+        IFFFFFFF wert2 < wert2 :TJ:
+            Resultat ist wert2 * wert2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x3_x2_rechne$:TJ:
+        IFFFFFFF x3 <= x2 :TJ:
+            Resultat ist x3 ** x2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert1_x1_rechne$:TJ:
+        IFFFFFFF wert1 >= x1 :TJ:
+            Resultat ist wert1 ** x1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

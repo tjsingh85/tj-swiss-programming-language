@@ -1,0 +1,19 @@
+Klasse Berechnung93$:TJ:
+    
+    Funktion nummer1_x1_rechne$:TJ:
+        IFFFFFFF nummer1 > x1 :TJ:
+            Resultat ist nummer1 % x1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x3_nummer4_rechne$:TJ:
+        IFFFFFFF x3 >= nummer4 :TJ:
+            Resultat ist x3 * nummer4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

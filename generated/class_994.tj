@@ -1,0 +1,19 @@
+Klasse Berechnung994$:TJ:
+    
+    Funktion zahl2_wert3_rechne$:TJ:
+        IFFFFFFF zahl2 == wert3 :TJ:
+            Resultat ist zahl2 + wert3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl5_y2_rechne$:TJ:
+        IFFFFFFF zahl5 <= y2 :TJ:
+            Resultat ist zahl5 ** y2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

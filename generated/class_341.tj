@@ -1,0 +1,43 @@
+Klasse Kalkulator341$:TJ:
+    
+    Funktion zahl1_nummer2_rechne$:TJ:
+        IFFFFFFF zahl1 >= nummer2 :TJ:
+            Resultat ist zahl1 % nummer2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer2_y2_rechne$:TJ:
+        IFFFFFFF nummer2 == y2 :TJ:
+            Resultat ist nummer2 - y2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl2_nummer2_rechne$:TJ:
+        IFFFFFFF zahl2 != nummer2 :TJ:
+            Resultat ist zahl2 % nummer2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl4_y1_rechne$:TJ:
+        IFFFFFFF zahl4 != y1 :TJ:
+            Resultat ist zahl4 ** y1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x2_zahl1_rechne$:TJ:
+        IFFFFFFF x2 > zahl1 :TJ:
+            Resultat ist x2 + zahl1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

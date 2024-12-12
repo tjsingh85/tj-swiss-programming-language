@@ -1,0 +1,27 @@
+Klasse Mathematik102$:TJ:
+    
+    Funktion nummer3_y2_rechne$:TJ:
+        IFFFFFFF nummer3 != y2 :TJ:
+            Resultat ist nummer3 % y2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl3_zahl1_rechne$:TJ:
+        IFFFFFFF zahl3 == zahl1 :TJ:
+            Resultat ist zahl3 % zahl1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y1_nummer3_rechne$:TJ:
+        IFFFFFFF y1 >= nummer3 :TJ:
+            Resultat ist y1 * nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

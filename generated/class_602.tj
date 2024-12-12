@@ -1,0 +1,35 @@
+Klasse ZahleRechner602$:TJ:
+    
+    Funktion y2_zahl3_rechne$:TJ:
+        IFFFFFFF y2 < zahl3 :TJ:
+            Resultat ist y2 ** zahl3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x2_nummer2_rechne$:TJ:
+        IFFFFFFF x2 <= nummer2 :TJ:
+            Resultat ist x2 / nummer2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x2_y5_rechne$:TJ:
+        IFFFFFFF x2 != y5 :TJ:
+            Resultat ist x2 ** y5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x3_y2_rechne$:TJ:
+        IFFFFFFF x3 == y2 :TJ:
+            Resultat ist x3 + y2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

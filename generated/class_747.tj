@@ -1,0 +1,27 @@
+Klasse Kalkulator747$:TJ:
+    
+    Funktion y2_x2_rechne$:TJ:
+        IFFFFFFF y2 <= x2 :TJ:
+            Resultat ist y2 ** x2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert3_wert2_rechne$:TJ:
+        IFFFFFFF wert3 == wert2 :TJ:
+            Resultat ist wert3 + wert2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x5_y4_rechne$:TJ:
+        IFFFFFFF x5 > y4 :TJ:
+            Resultat ist x5 - y4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

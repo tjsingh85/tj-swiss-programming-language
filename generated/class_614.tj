@@ -1,0 +1,19 @@
+Klasse Rechner614$:TJ:
+    
+    Funktion y2_y5_rechne$:TJ:
+        IFFFFFFF y2 <= y5 :TJ:
+            Resultat ist y2 ** y5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x2_y4_rechne$:TJ:
+        IFFFFFFF x2 <= y4 :TJ:
+            Resultat ist x2 ** y4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

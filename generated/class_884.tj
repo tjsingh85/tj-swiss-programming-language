@@ -1,0 +1,43 @@
+Klasse Rechner884$:TJ:
+    
+    Funktion wert4_y5_rechne$:TJ:
+        IFFFFFFF wert4 != y5 :TJ:
+            Resultat ist wert4 - y5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x4_wert2_rechne$:TJ:
+        IFFFFFFF x4 >= wert2 :TJ:
+            Resultat ist x4 / wert2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y2_nummer5_rechne$:TJ:
+        IFFFFFFF y2 < nummer5 :TJ:
+            Resultat ist y2 + nummer5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert3_wert4_rechne$:TJ:
+        IFFFFFFF wert3 < wert4 :TJ:
+            Resultat ist wert3 - wert4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x5_x3_rechne$:TJ:
+        IFFFFFFF x5 == x3 :TJ:
+            Resultat ist x5 * x3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

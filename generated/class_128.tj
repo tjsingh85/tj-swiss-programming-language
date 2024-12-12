@@ -1,0 +1,43 @@
+Klasse Mathematik128$:TJ:
+    
+    Funktion x5_y1_rechne$:TJ:
+        IFFFFFFF x5 < y1 :TJ:
+            Resultat ist x5 ** y1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert3_zahl2_rechne$:TJ:
+        IFFFFFFF wert3 == zahl2 :TJ:
+            Resultat ist wert3 / zahl2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x1_wert1_rechne$:TJ:
+        IFFFFFFF x1 < wert1 :TJ:
+            Resultat ist x1 % wert1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x2_wert3_rechne$:TJ:
+        IFFFFFFF x2 >= wert3 :TJ:
+            Resultat ist x2 - wert3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y2_zahl2_rechne$:TJ:
+        IFFFFFFF y2 <= zahl2 :TJ:
+            Resultat ist y2 * zahl2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

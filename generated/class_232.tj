@@ -1,0 +1,35 @@
+Klasse ZahleRechner232$:TJ:
+    
+    Funktion nummer1_nummer3_rechne$:TJ:
+        IFFFFFFF nummer1 > nummer3 :TJ:
+            Resultat ist nummer1 % nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x1_zahl3_rechne$:TJ:
+        IFFFFFFF x1 > zahl3 :TJ:
+            Resultat ist x1 + zahl3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer3_nummer5_rechne$:TJ:
+        IFFFFFFF nummer3 > nummer5 :TJ:
+            Resultat ist nummer3 / nummer5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl5_y5_rechne$:TJ:
+        IFFFFFFF zahl5 <= y5 :TJ:
+            Resultat ist zahl5 ** y5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

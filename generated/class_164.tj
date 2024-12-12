@@ -1,0 +1,27 @@
+Klasse Mathematik164$:TJ:
+    
+    Funktion nummer1_x4_rechne$:TJ:
+        IFFFFFFF nummer1 < x4 :TJ:
+            Resultat ist nummer1 - x4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer4_wert1_rechne$:TJ:
+        IFFFFFFF nummer4 != wert1 :TJ:
+            Resultat ist nummer4 - wert1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl5_zahl3_rechne$:TJ:
+        IFFFFFFF zahl5 >= zahl3 :TJ:
+            Resultat ist zahl5 / zahl3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

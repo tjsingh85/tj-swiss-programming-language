@@ -1,0 +1,27 @@
+Klasse Berechnung416$:TJ:
+    
+    Funktion x3_x3_rechne$:TJ:
+        IFFFFFFF x3 <= x3 :TJ:
+            Resultat ist x3 - x3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert4_nummer1_rechne$:TJ:
+        IFFFFFFF wert4 >= nummer1 :TJ:
+            Resultat ist wert4 - nummer1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert4_nummer3_rechne$:TJ:
+        IFFFFFFF wert4 == nummer3 :TJ:
+            Resultat ist wert4 - nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

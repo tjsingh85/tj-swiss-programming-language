@@ -1,0 +1,27 @@
+Klasse Berechnung108$:TJ:
+    
+    Funktion zahl3_zahl3_rechne$:TJ:
+        IFFFFFFF zahl3 > zahl3 :TJ:
+            Resultat ist zahl3 * zahl3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x4_zahl2_rechne$:TJ:
+        IFFFFFFF x4 > zahl2 :TJ:
+            Resultat ist x4 ** zahl2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x5_zahl3_rechne$:TJ:
+        IFFFFFFF x5 != zahl3 :TJ:
+            Resultat ist x5 - zahl3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

@@ -1,0 +1,19 @@
+Klasse ZahleRechner901$:TJ:
+    
+    Funktion wert5_zahl3_rechne$:TJ:
+        IFFFFFFF wert5 <= zahl3 :TJ:
+            Resultat ist wert5 ** zahl3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert1_x4_rechne$:TJ:
+        IFFFFFFF wert1 != x4 :TJ:
+            Resultat ist wert1 % x4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

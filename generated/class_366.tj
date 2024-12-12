@@ -1,0 +1,35 @@
+Klasse Rechner366$:TJ:
+    
+    Funktion zahl5_y2_rechne$:TJ:
+        IFFFFFFF zahl5 >= y2 :TJ:
+            Resultat ist zahl5 + y2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert2_wert5_rechne$:TJ:
+        IFFFFFFF wert2 != wert5 :TJ:
+            Resultat ist wert2 % wert5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer3_x4_rechne$:TJ:
+        IFFFFFFF nummer3 > x4 :TJ:
+            Resultat ist nummer3 / x4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer1_x2_rechne$:TJ:
+        IFFFFFFF nummer1 != x2 :TJ:
+            Resultat ist nummer1 - x2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

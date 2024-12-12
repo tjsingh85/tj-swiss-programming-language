@@ -1,0 +1,27 @@
+Klasse Mathematik481$:TJ:
+    
+    Funktion wert3_zahl2_rechne$:TJ:
+        IFFFFFFF wert3 <= zahl2 :TJ:
+            Resultat ist wert3 - zahl2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert3_zahl1_rechne$:TJ:
+        IFFFFFFF wert3 == zahl1 :TJ:
+            Resultat ist wert3 ** zahl1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert2_nummer3_rechne$:TJ:
+        IFFFFFFF wert2 <= nummer3 :TJ:
+            Resultat ist wert2 / nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

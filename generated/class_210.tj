@@ -1,0 +1,43 @@
+Klasse ZahleRechner210$:TJ:
+    
+    Funktion wert1_x4_rechne$:TJ:
+        IFFFFFFF wert1 > x4 :TJ:
+            Resultat ist wert1 ** x4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x1_y4_rechne$:TJ:
+        IFFFFFFF x1 < y4 :TJ:
+            Resultat ist x1 * y4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer2_y2_rechne$:TJ:
+        IFFFFFFF nummer2 <= y2 :TJ:
+            Resultat ist nummer2 % y2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert4_wert5_rechne$:TJ:
+        IFFFFFFF wert4 >= wert5 :TJ:
+            Resultat ist wert4 * wert5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert1_zahl3_rechne$:TJ:
+        IFFFFFFF wert1 <= zahl3 :TJ:
+            Resultat ist wert1 ** zahl3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

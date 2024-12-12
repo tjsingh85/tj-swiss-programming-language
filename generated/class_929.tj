@@ -1,0 +1,19 @@
+Klasse Rechner929$:TJ:
+    
+    Funktion x5_x2_rechne$:TJ:
+        IFFFFFFF x5 < x2 :TJ:
+            Resultat ist x5 / x2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y1_nummer4_rechne$:TJ:
+        IFFFFFFF y1 >= nummer4 :TJ:
+            Resultat ist y1 % nummer4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

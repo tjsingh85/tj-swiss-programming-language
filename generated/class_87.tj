@@ -1,0 +1,27 @@
+Klasse Rechner87$:TJ:
+    
+    Funktion nummer5_zahl5_rechne$:TJ:
+        IFFFFFFF nummer5 == zahl5 :TJ:
+            Resultat ist nummer5 + zahl5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl2_x5_rechne$:TJ:
+        IFFFFFFF zahl2 > x5 :TJ:
+            Resultat ist zahl2 % x5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer5_nummer3_rechne$:TJ:
+        IFFFFFFF nummer5 >= nummer3 :TJ:
+            Resultat ist nummer5 / nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

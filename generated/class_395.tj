@@ -1,0 +1,19 @@
+Klasse Kalkulator395$:TJ:
+    
+    Funktion zahl5_y4_rechne$:TJ:
+        IFFFFFFF zahl5 <= y4 :TJ:
+            Resultat ist zahl5 - y4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer3_x1_rechne$:TJ:
+        IFFFFFFF nummer3 >= x1 :TJ:
+            Resultat ist nummer3 % x1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

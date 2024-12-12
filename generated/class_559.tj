@@ -1,0 +1,19 @@
+Klasse Kalkulator559$:TJ:
+    
+    Funktion wert4_nummer3_rechne$:TJ:
+        IFFFFFFF wert4 >= nummer3 :TJ:
+            Resultat ist wert4 ** nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl2_x5_rechne$:TJ:
+        IFFFFFFF zahl2 >= x5 :TJ:
+            Resultat ist zahl2 / x5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

@@ -1,0 +1,27 @@
+Klasse Mathematik941$:TJ:
+    
+    Funktion x5_y1_rechne$:TJ:
+        IFFFFFFF x5 >= y1 :TJ:
+            Resultat ist x5 ** y1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer1_nummer2_rechne$:TJ:
+        IFFFFFFF nummer1 < nummer2 :TJ:
+            Resultat ist nummer1 - nummer2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer4_zahl4_rechne$:TJ:
+        IFFFFFFF nummer4 < zahl4 :TJ:
+            Resultat ist nummer4 % zahl4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

@@ -1,0 +1,43 @@
+Klasse Mathematik57$:TJ:
+    
+    Funktion zahl4_nummer1_rechne$:TJ:
+        IFFFFFFF zahl4 >= nummer1 :TJ:
+            Resultat ist zahl4 + nummer1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl2_x4_rechne$:TJ:
+        IFFFFFFF zahl2 < x4 :TJ:
+            Resultat ist zahl2 + x4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl3_y1_rechne$:TJ:
+        IFFFFFFF zahl3 > y1 :TJ:
+            Resultat ist zahl3 + y1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y1_y4_rechne$:TJ:
+        IFFFFFFF y1 <= y4 :TJ:
+            Resultat ist y1 / y4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert4_x1_rechne$:TJ:
+        IFFFFFFF wert4 != x1 :TJ:
+            Resultat ist wert4 / x1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

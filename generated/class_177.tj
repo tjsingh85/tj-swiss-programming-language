@@ -1,0 +1,27 @@
+Klasse Berechnung177$:TJ:
+    
+    Funktion nummer5_nummer2_rechne$:TJ:
+        IFFFFFFF nummer5 != nummer2 :TJ:
+            Resultat ist nummer5 % nummer2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer1_zahl4_rechne$:TJ:
+        IFFFFFFF nummer1 <= zahl4 :TJ:
+            Resultat ist nummer1 + zahl4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert2_nummer3_rechne$:TJ:
+        IFFFFFFF wert2 <= nummer3 :TJ:
+            Resultat ist wert2 - nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

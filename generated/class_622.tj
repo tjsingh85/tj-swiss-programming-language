@@ -1,0 +1,35 @@
+Klasse Rechner622$:TJ:
+    
+    Funktion zahl3_nummer4_rechne$:TJ:
+        IFFFFFFF zahl3 >= nummer4 :TJ:
+            Resultat ist zahl3 ** nummer4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer2_nummer3_rechne$:TJ:
+        IFFFFFFF nummer2 > nummer3 :TJ:
+            Resultat ist nummer2 - nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert2_y4_rechne$:TJ:
+        IFFFFFFF wert2 < y4 :TJ:
+            Resultat ist wert2 / y4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert4_y5_rechne$:TJ:
+        IFFFFFFF wert4 >= y5 :TJ:
+            Resultat ist wert4 - y5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

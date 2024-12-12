@@ -1,0 +1,43 @@
+Klasse Mathematik708$:TJ:
+    
+    Funktion y2_y2_rechne$:TJ:
+        IFFFFFFF y2 > y2 :TJ:
+            Resultat ist y2 - y2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl1_y3_rechne$:TJ:
+        IFFFFFFF zahl1 > y3 :TJ:
+            Resultat ist zahl1 ** y3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y3_zahl5_rechne$:TJ:
+        IFFFFFFF y3 <= zahl5 :TJ:
+            Resultat ist y3 + zahl5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y3_nummer4_rechne$:TJ:
+        IFFFFFFF y3 == nummer4 :TJ:
+            Resultat ist y3 + nummer4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl4_nummer4_rechne$:TJ:
+        IFFFFFFF zahl4 > nummer4 :TJ:
+            Resultat ist zahl4 / nummer4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

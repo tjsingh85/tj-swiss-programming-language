@@ -1,0 +1,43 @@
+Klasse Berechnung29$:TJ:
+    
+    Funktion y2_nummer4_rechne$:TJ:
+        IFFFFFFF y2 == nummer4 :TJ:
+            Resultat ist y2 ** nummer4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x1_wert5_rechne$:TJ:
+        IFFFFFFF x1 > wert5 :TJ:
+            Resultat ist x1 * wert5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert4_wert5_rechne$:TJ:
+        IFFFFFFF wert4 == wert5 :TJ:
+            Resultat ist wert4 * wert5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x3_y1_rechne$:TJ:
+        IFFFFFFF x3 == y1 :TJ:
+            Resultat ist x3 ** y1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer4_zahl4_rechne$:TJ:
+        IFFFFFFF nummer4 != zahl4 :TJ:
+            Resultat ist nummer4 % zahl4 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

@@ -1,0 +1,35 @@
+Klasse ZahleRechner116$:TJ:
+    
+    Funktion zahl3_zahl5_rechne$:TJ:
+        IFFFFFFF zahl3 <= zahl5 :TJ:
+            Resultat ist zahl3 * zahl5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert5_nummer5_rechne$:TJ:
+        IFFFFFFF wert5 != nummer5 :TJ:
+            Resultat ist wert5 % nummer5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl5_nummer2_rechne$:TJ:
+        IFFFFFFF zahl5 <= nummer2 :TJ:
+            Resultat ist zahl5 ** nummer2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion nummer3_y5_rechne$:TJ:
+        IFFFFFFF nummer3 == y5 :TJ:
+            Resultat ist nummer3 % y5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

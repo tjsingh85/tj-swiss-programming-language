@@ -1,0 +1,27 @@
+Klasse ZahleRechner152$:TJ:
+    
+    Funktion wert3_x5_rechne$:TJ:
+        IFFFFFFF wert3 > x5 :TJ:
+            Resultat ist wert3 % x5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion x1_nummer1_rechne$:TJ:
+        IFFFFFFF x1 > nummer1 :TJ:
+            Resultat ist x1 ** nummer1 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion wert5_zahl5_rechne$:TJ:
+        IFFFFFFF wert5 <= zahl5 :TJ:
+            Resultat ist wert5 + zahl5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:

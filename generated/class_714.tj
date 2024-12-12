@@ -1,0 +1,27 @@
+Klasse Rechner714$:TJ:
+    
+    Funktion x4_nummer5_rechne$:TJ:
+        IFFFFFFF x4 < nummer5 :TJ:
+            Resultat ist x4 % nummer5 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion y1_nummer2_rechne$:TJ:
+        IFFFFFFF y1 == nummer2 :TJ:
+            Resultat ist y1 - nummer2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+    Funktion zahl2_nummer3_rechne$:TJ:
+        IFFFFFFF zahl2 != nummer3 :TJ:
+            Resultat ist zahl2 % nummer3 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Operation!" zrugg :TJ:
+    $:TJ:
+    
+$:TJ:
