@@ -1,0 +1,44 @@
+Klasse Rechner$:TJ:
+    Funktion setzeZahle$zahl1, zahl2$:TJ:
+        zahl1 :TJ:
+        zahl2 :TJ:
+    $:TJ:
+
+    Funktion addiere$:TJ:
+        IFFFFFFF zahl1 und zahl2 sind gültig :TJ:
+            Resultat ist zahl1 + zahl2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Zahle!" zrugg :TJ:
+    $:TJ:
+
+    Funktion multipliziere$:TJ:
+        IFFFFFFF zahl1 und zahl2 sind gültig :TJ:
+            Resultat ist zahl1 * zahl2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Zahle!" zrugg :TJ:
+    $:TJ:
+
+    Funktion subtrahiere$:TJ:
+        IFFFFFFF zahl1 und zahl2 sind gültig :TJ:
+            Resultat ist zahl1 - zahl2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Ungültigi Zahle!" zrugg :TJ:
+    $:TJ:
+
+    Funktion dividiere$:TJ:
+        IFFFFFFF zahl2 != 0 :TJ:
+            Resultat ist zahl1 / zahl2 :TJ:
+            Gib Resultat zrugg :TJ:
+        Elseeeeeee :TJ:
+            Gib "Teilig durch Null isch nid erlaubt!" zrugg :TJ:
+    $:TJ:
+$:TJ:
+
+# Beispiel für d'Benützig
+Rechner_Objekt ist e neue Rechner$:TJ:
+Rechner_Objekt.setzeZahle$5, 10$:TJ:
+Addition ist Rechner_Objekt.addiere$:TJ:
+Multiplikation ist Rechner_Objekt.multipliziere$:TJ:
